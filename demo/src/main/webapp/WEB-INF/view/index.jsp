@@ -1,17 +1,17 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
 
-<h1>ÇÏÀ§~~~~~~~~~~</h1>
-<h1>³»ÀÌ¸§Àº Àü»ó¿±</h1>
+<h1>í•˜ìœ„~~~~~~~~~~</h1>
+<h1>ë‚´ì´ë¦„ì€ ì „ìƒì—½</h1>
 
-<a href="naver.com">³×ÀÌ¹öÁö·Õ</a>
+<a href="naver.com">ë„¤ì´ë²„ì§€ë¡± ëƒí•³</a>
 
 </body>
 </html>
